@@ -1,5 +1,6 @@
 TIMEX SCLD board in my version
 PCB Printed  made in Diptrace,
+Oryginal project, https://github.com/LoadZX/timex_scld
 
 
 
