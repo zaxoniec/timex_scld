@@ -1,3 +1,19 @@
+TIMEX SCLD board in my version
+PCB Printed  made in Diptrace,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Timex SCLD
 
 This is an implementation of the Timex TC2068 SCLD as can be found in Timex models TC2048 and TC2068.
