@@ -1,5 +1,5 @@
 TIMEX SCLD board in my version
-PCB Printed  made in Diptrace,
+PCB   made in Diptrace + gerbers.
 Oryginal project, https://github.com/LoadZX/timex_scld
 
 
